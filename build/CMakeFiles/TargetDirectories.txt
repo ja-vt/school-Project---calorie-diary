@@ -1,0 +1,6 @@
+/home/jv3/Projects/idpbl/build/CMakeFiles/imgui_lib.dir
+/home/jv3/Projects/idpbl/build/CMakeFiles/calorie_tracker_gui.dir
+/home/jv3/Projects/idpbl/build/CMakeFiles/edit_cache.dir
+/home/jv3/Projects/idpbl/build/CMakeFiles/rebuild_cache.dir
+/home/jv3/Projects/idpbl/build/_deps/json-build/CMakeFiles/edit_cache.dir
+/home/jv3/Projects/idpbl/build/_deps/json-build/CMakeFiles/rebuild_cache.dir

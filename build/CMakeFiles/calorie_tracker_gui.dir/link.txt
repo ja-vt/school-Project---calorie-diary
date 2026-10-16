@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/calorie_tracker_gui.dir/link.d CMakeFiles/calorie_tracker_gui.dir/main.cpp.o -o calorie_tracker_gui  libimgui_lib.a /usr/lib/libSDL3.so.0.4.18 /usr/lib/libcurl.so /usr/lib/libcurl.so

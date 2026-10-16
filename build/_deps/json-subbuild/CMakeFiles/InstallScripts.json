@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/jv3/Projects/idpbl/build/_deps/json-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
